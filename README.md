@@ -5,8 +5,8 @@ Hi. I'm a freshman university computer engineering student, with an interest in 
 ---
 
 - Pronouns: she/her
-- I'm currently doing beginner to intermediate projects with the Arduino and various accessory PCBs
-- If anyone has suggestions for othre practice projects I can work on please reach out!
+- I'm currently doing beginner to intermediate projects with the Arduino combined with other sensors and PCBs
+- If anyone has suggestions for other practice projects I can work on please reach out
 - You can reach me through discord
 
 ---
